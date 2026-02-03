@@ -11,6 +11,8 @@ Authorization: Bearer <access_token>
 
 ## Ответ (успешный)
 
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
 ```json
 {
   "screen_title": "Выберите магазин",
